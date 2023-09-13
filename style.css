@@ -1,0 +1,9 @@
+body {
+  background-color: rgba(127, 211, 204, 0.205);
+}
+style table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
